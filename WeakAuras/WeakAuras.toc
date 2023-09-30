@@ -16,6 +16,9 @@
 ## LoadOnDemand: 0
 ## SavedVariables: WeakAurasSaved
 ## OptionalDeps: Ace3, LibCompress, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets, Masque, GTFO, LibButtonGlow-1.0, LibSpellRange-1.0, LibRangeCheck-2.0, LibDBIcon-1.0, LibClassicDurations, LibClassicCasterino, LibGetFrame-1.0
+## X-Endless-Hosted: true
+## X-Endless-Version: 4.0.0
+## X-Endless-Links: WeakAurasArchive, WeakAurasModelPaths, WeakAurasOptions
 
 compat.lua
 Pools.lua

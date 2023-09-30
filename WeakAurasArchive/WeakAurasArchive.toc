@@ -3,5 +3,7 @@
 ## LoadOnDemand: 1
 ## SavedVariables: WeakAurasArchive
 ## Dependencies: WeakAuras
+## X-Endless-Hosted: true
+## X-Endless-Version: 4.0.0
 
 WeakAurasArchive.lua
