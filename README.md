@@ -2,6 +2,8 @@
 
 WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. This addon was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.
 
+---
+
 ## Features
 
 * An intuitive and powerful configuration interface
@@ -18,6 +20,4 @@ WeakAuras is a powerful and flexible framework that allows the display of highly
 
 To open the options window, type `/wa` or `/weakauras` into your chat and hit enter or use the minimap icon.
 
-## Documentation
-
-For in-depth documentation, see the [wiki](https://github.com/WeakAuras/WeakAuras2/wiki) page.
+![image](https://github.com/endless-addons/WeakAuras/assets/46463908/42a07b56-d616-4c0d-95ca-81a294f30404)
